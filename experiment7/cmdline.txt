@@ -1,0 +1,1 @@
+"C:\Program Files\nodejs\node.exe" C:\Users\kalai\experiment9\node_modules\react-scripts\scripts\start.js
